@@ -1,0 +1,23 @@
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}%
+\contentsline {section}{\numberline {2}Related literature}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Empirical literature}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Theoretical modeling}{4}{subsection.2.2}%
+\contentsline {section}{\numberline {3}Neoclassical model}{5}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Key model elements}{6}{subsection.3.1}%
+\contentsline {section}{\numberline {4}Bayesian estimation of the model}{8}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Parameter calibration}{8}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Parameter estimation}{9}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Is $\theta $ well identified?}{11}{subsection.4.3}%
+\contentsline {section}{\numberline {5}Key Results}{13}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Comparative Statics}{13}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Steady State Expressions}{13}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}`Laffer curves' for public investment}{14}{subsection.5.3}%
+\contentsline {section}{\numberline {6}Conclusions}{16}{section.6}%
+\contentsline {section}{Appendices}{19}{section*.1}%
+\contentsline {section}{\numberline {A}Model derivation}{19}{appendix.1.A}%
+\contentsline {subsection}{\numberline {A.1}Households}{19}{subsection.1.A.1}%
+\contentsline {subsection}{\numberline {A.2}Firms}{20}{subsection.1.A.2}%
+\contentsline {subsubsection}{\numberline {A.2.1}Final goods producer}{20}{subsubsection.1.A.2.1}%
+\contentsline {subsubsection}{\numberline {A.2.2}Intermediate good firms}{21}{subsubsection.1.A.2.2}%
+\contentsline {subsection}{\numberline {A.3}Fiscal policy}{22}{subsection.1.A.3}%
+\contentsline {subsection}{\numberline {A.4}Market clearing}{22}{subsection.1.A.4}%
