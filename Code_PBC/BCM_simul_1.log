@@ -1,0 +1,4 @@
+Starting Dynare (version 6.4).
+Calling Dynare with arguments: noclearall
+ERROR: Could not open file: BCM_simul_1.mod
+Preprocessing time: 0h00m00s.
